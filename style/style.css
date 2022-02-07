@@ -1,0 +1,61 @@
+body {
+    width: 100%;
+    margin: 0;
+}
+
+
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 75px;
+    background-color: white;
+    position: fixed;
+}
+
+@media only screen and (max-width:900px){
+    header {
+        display: none;
+    }
+}
+
+@media only screen and (min-width:900px){
+    .navbar2{
+        display: none;
+    }
+}
+
+.logo {
+    width: 21%;
+    height: 16%;
+    margin-left: 3%;
+}
+
+.logo2 {
+    width: 170px;
+    height: 60px;
+    margin-left: 1%;
+}
+
+.itemsContainers {
+    margin-right: 5%;
+    display: flex;
+    justify-content: flex-end;
+    width: 50%;
+    font-size: 1.3em;
+    font-family: 'Bebas Neue';
+}
+
+.link {
+    margin-right: 5%;
+    text-decoration: none;
+    color: black;
+}
+
+.picture{
+    padding-top: 75px;
+    height: 550px;
+    object-fit: cover;
+}
