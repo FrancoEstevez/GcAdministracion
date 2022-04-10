@@ -141,3 +141,43 @@ header {
     margin-top: 12px;
  }
 }
+
+.nosotrosTitulo {
+    display: flex;
+    justify-content: center;
+}
+
+.textos {
+    padding-top: 75px;
+}
+
+.serviciosTextos{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.serviciosTitulos {
+    margin-top: 50px;
+}
+
+.mails{
+    font-size: 1.1rem;
+    color: #0f3c78;
+    text-decoration: none;
+}
+
+.contactoTextos{
+    margin-bottom: 40px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.dios {
+    margin: 0;
+    padding: 0;
+}
+
+.nosotrosTextos {
+    margin-left: 3%;
+    margin-right: 3%;
+}
