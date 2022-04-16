@@ -95,8 +95,10 @@ header {
 
 .parrafo {
     color: black;
-    margin-top: 10px;
-    margin-left: 20px;
+    margin-top: 70px;
+    margin-left: 3%;
+    margin-right: 10%;
+    text-align: center;
     font-size: 1.2em;
 }
 
@@ -170,7 +172,7 @@ header {
 
 .mails{
     font-size: 1.1rem;
-    color: #0f3c78;
+    color: #0062e2;
     text-decoration: none;
 }
 
@@ -181,6 +183,7 @@ header {
 }
 
 .nosotrosTextos {
+    margin-top: 20px;
     margin-left: 3%;
     margin-right: 3%;
 }
